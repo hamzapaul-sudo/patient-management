@@ -1,0 +1,13 @@
+### Create Patient
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "firstName": "Hamza Kafka2",
+  "lastName": "Paul",
+  "email": "xyz.kafka2@gmail.com",
+  "address": "Munich",
+  "dateOfBirth": "1997-12-01",
+  "registeredDate": "2024-11-28"
+}
+###
